@@ -1,0 +1,23 @@
+.body{
+  display: flex;
+  flex-direction: column;
+}
+.header{
+  border: 1rpx solid #090;
+}
+.list{
+  width: 100vw;
+  display: flex;
+  border: 1rpx solid #090;
+}
+.card{
+ width: 50vw;
+ border: 1rpx solid #090;
+}
+.footer{
+    border: 1rpx solid #090;
+
+}
+image{
+  width: 100%
+}

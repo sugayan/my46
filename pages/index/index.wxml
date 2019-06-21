@@ -1,0 +1,24 @@
+<view class='body'>
+  <view class='header'>header</view>
+  <view class='list'>
+  <view class='card'>
+  <image src='../../img/tree.jpg'></image>
+  <view>haha</view>
+  </view>
+  <view class='card'>
+  <image src='../../img/tree.jpg'></image>
+  <view>haha</view>
+  </view>
+  </view>
+  <view class='list'>
+  <view class='card'>
+  <image src='../../img/tree.jpg'></image>
+  <view>haha</view>
+  </view>
+  <view class='card'>
+  <image src='../../img/tree.jpg'></image>
+  <view>haha</view>
+  </view>
+  </view>
+  <view class='footer'>footer</view>
+</view>
